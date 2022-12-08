@@ -25,9 +25,8 @@ The following additional features are implemented
 
 Here's a walkthrough of implemented user stories:
 
+![Kapture 2022-12-08 at 11 29 49](https://user-images.githubusercontent.com/83426123/206508922-2849faa9-e333-4149-95da-7e79209278f9.gif)
 
-Kapture 2022-09-05 at 23.22.47.gif
-![Kapture 2022-09-05 at 23 22 47](https://user-images.githubusercontent.com/83426123/188541863-36d0d897-5397-4170-b3be-9fcaf93c3b34.gif)
 
 ##Notes:
 
